@@ -1,0 +1,3 @@
+[submodule "src/go-slang"]
+	path = src/go-slang
+	url = https://github.com/CS4215-AY2324S2-joy-kyriel/go-slang.git
